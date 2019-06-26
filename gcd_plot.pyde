@@ -1,5 +1,3 @@
-# vim: ft=python
-
 from fractions import gcd
 from collections import deque
 from itertools import islice
